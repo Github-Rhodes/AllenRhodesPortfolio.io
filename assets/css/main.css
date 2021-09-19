@@ -289,7 +289,14 @@ h1 a {
   }
 }
 
-h2,
+h2 {
+  font-weight: 900;
+  line-height: 1.5;
+  margin: auto;
+  text-transform: uppercase;
+  letter-spacing: 0.35em;
+}
+
 h5 {
   font-weight: 900;
   line-height: 1.5;
