@@ -2668,14 +2668,14 @@ button:disabled,
 /* Tiles */
 
 .tiles {
-  /* display: -moz-flex;
+  display: -moz-flex;
   display: -webkit-flex;
   display: -ms-flex;
-  display: flex;
+  display: flexbox;
   -moz-flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
-  flex-wrap: wrap; */
+  flex-wrap: wrap;
   postiion: relative;
   margin: -2.5em 0 0 -2.5em;
 }
